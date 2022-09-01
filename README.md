@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ozan Pempegül</h1>
 <h3 align="center">Aspiring Developer</h3>
 
-- 🔭 I’m currently working on [Por Corp Wis](https://github.com/ozanpempegul/Por-Corp-Wis)
+- 🔭 I’m currently working on [Catalog Web Api](https://github.com/ozanpempegul/CatalogWebApi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
