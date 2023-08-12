@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ozan PEMPEGÜL</h1>
 <h3 align="center">An aspiring backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Catalog Web Api](https://github.com/ozanpempegul/CatalogWebApi)
-
 - 📫 How to reach me **ozanpembegul@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
